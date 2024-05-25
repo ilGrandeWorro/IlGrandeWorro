@@ -1,6 +1,6 @@
 
 ### Hi there I'm [Alessio!](https://www.linkedin.com/in/alessio-delle-donne-008a35248/)👋
-#I'm Alessio Delle Donne, a back-end java developer.<br>
+<h1 align="ledt">I'm Alessio Delle Donne, a back-end java developer.</h1><br>
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/alessio-delle-donne-008a35248/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ilGrandeWorro) 
 
