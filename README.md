@@ -7,7 +7,7 @@ I'm Alessio Delle Donne, a back-end java developer.<br>
 - 📧 [This](alessiodelledonne@gmail.com) is my email
 - 🔭 I’m currently working on [Car Dealer](https://github.com/develhope/Java23-Team2-Dealer)
 - 🌱 I’m currently learning SpringBoot
-- ⚡ The tools I use: Java, Kotlin, Python3
+- ⚡ The tools I use: Java, Git, MySQL, Spring
 
 
 ![Alessio's github stats](https://github-readme-stats.vercel.app/api?username=IlGrandeWorro&show_icons=true&theme=dark)
