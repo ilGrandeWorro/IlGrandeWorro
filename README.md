@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**ilGrandeWorro/IlGrandeWorro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there I'm [Alessio!]([https://akhilgkrishnan.me](https://www.linkedin.com/in/alessio-delle-donne-008a35248/)👋
+I'm Alessio Delle Donne, a back-end java developer.<br>
+## 📫 How to reach me: 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alessio-delle-donne-008a35248/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ilGrandeWorro) 
 
-Here are some ideas to get you started:
+- 📧 [This](alessiodelledonne@gmail.com) is my email
+- 🔭 I’m currently working on [Car Dealer](https://github.com/develhope/Java23-Team2-Dealer)
+- 🌱 I’m currently learning SpringBoot
+- ⚡ The tools I use: Java, Kotlin, Python3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Alessio's github stats](https://github-readme-stats.vercel.app/api?username=IlGrandeWorro&show_icons=true&theme=dark)
