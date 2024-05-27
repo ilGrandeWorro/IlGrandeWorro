@@ -13,10 +13,7 @@
 				
 <a href="https://github.com/ilGrandeWorro" target="_blank">
 <img src = "https://i.imgur.com/J6LeoUb.png" alt = "GitHub logo" width="30" height ="30" > </img>
-</a>
-				
-<img src = "https://i.imgur.com/ncWi6Ts.png" alt = "gmail logo" width="30" height ="30" > </img>
-</a>
+
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/develhope/Java23-Team2-Dealer">
 <b>Car Dealer</b>
