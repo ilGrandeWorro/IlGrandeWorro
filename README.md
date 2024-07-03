@@ -16,8 +16,8 @@
 <img src = "https://i.imgur.com/J6LeoUb.png" alt = "GitHub logo" width="30" height ="30" > </img>
 
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/develhope/Java23-Team2-Dealer">
-<b>Car Dealer</b>
+<li>🔭 I’m currently working on <a href="https://github.com/ilGrandeWorro/Vicolo-Cechov-WEBAPP">
+<b>Vicolo Cechov</b>
 </a></li>
 <li>🌱 I’m currently learning <b>SpringBoot</b></li>
 </ul>
