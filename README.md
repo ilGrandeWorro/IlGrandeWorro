@@ -19,7 +19,7 @@
 <li>🔭 I’m currently working on <a href="https://github.com/ilGrandeWorro/Vicolo-Cechov-WEBAPP">
 <b>Vicolo Cechov</b>
 </a></li>
-<li>🌱 I’m currently learning <b>SpringBoot</b></li>
+<li>🌱 I’m currently learning <b>HTML5</b></li>
 </ul>
 </p>
 <h2 align="left">⚡Languages and Tools:</h2>
