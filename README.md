@@ -16,7 +16,7 @@
 <img src = "https://i.imgur.com/J6LeoUb.png" alt = "GitHub logo" width="30" height ="30" > </img>
 
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/ilGrandeWorro/Vicolo-Cechov-WEBAPP">
+<li>🔭 I’m currently working on Converger Masterclass
 <b>Vicolo Cechov</b>
 </a></li>
 <li>🌱 I’m currently learning <b>HTML5</b></li>
