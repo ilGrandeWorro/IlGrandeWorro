@@ -17,6 +17,7 @@
 
 <ul>
 <li>🌱 I’m currently learning <b>Go</b></li>
+<li>Currently working on <a href="https://github.com/ilGrandeWorro/GoToDo" target="_blank">GoToDo</a></li>
 </ul>
 </p>
 <h2 align="left">⚡Languages and Tools:</h2>
