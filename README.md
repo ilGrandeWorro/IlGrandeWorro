@@ -4,7 +4,7 @@
 <h1>Hi there I'm <a href= "https://www.linkedin.com/in/alessio-delle-donne-008a35248/"> Alessio!👋</a>
 <img src ="https://i.imgur.com/disGdF5.gif" alt= "Sup?" align="right" width="250" height= "139"></img>	</h1>
 
-<p>I'm Alessio Delle Donne, a back-end java developer.</p>
+<p>I'm Alessio Delle Donne, a back-end java developer starving for knowledge.</p>
 
 <h2>📫 How to reach me:</h2>
 
