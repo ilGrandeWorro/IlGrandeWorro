@@ -19,7 +19,7 @@
 <li>🔭 I’m currently working on Converger Masterclass
 <b>Vicolo Cechov</b>
 </a></li>
-<li>🌱 I’m currently learning <b>HTML5</b></li>
+<li>🌱 I’m currently learning <b>CSS</b></li>
 </ul>
 </p>
 <h2 align="left">⚡Languages and Tools:</h2>
