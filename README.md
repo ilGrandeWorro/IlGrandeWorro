@@ -16,9 +16,6 @@
 <img src = "https://i.imgur.com/J6LeoUb.png" alt = "GitHub logo" width="30" height ="30" > </img>
 
 <ul>
-<li>🔭 I’m currently working on Converger Masterclass
-<b>Vicolo Cechov</b>
-</a></li>
 <li>🌱 I’m currently learning <b>CSS</b></li>
 </ul>
 </p>
